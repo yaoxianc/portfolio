@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陈耀显</title>
-    <link>https://example.org/</link>
-    <description>Recent content on 陈耀显</description>
+    <title>Posts on 陈耀显</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on 陈耀显</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Dec 2023 00:15:30 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《水中莲》-为二胡、单簧管、大提琴、钢琴、颤音琴而作</title>
       <link>https://example.org/post/music/</link>
